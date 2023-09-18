@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../cygwin64/home/Programa.java/Programa.java"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		]
+	}
+}
